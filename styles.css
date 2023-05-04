@@ -1,0 +1,15 @@
+@media (max-width: 2100px) {
+  body {
+    background-image: url("https://images.alphacoders.com/187/187251.jpg");
+    text-align: center;
+    font-size: larger;
+    font-family: "Arial";
+    color: red;
+  }
+}
+a:hover {
+  color: red;
+}
+a {
+  color: blue;
+}
